@@ -1,0 +1,2 @@
+The Real-Time Virtual Credit Card Display project aims to create a dynamic interface where users can input their credit card information, and the same details are instantly updated and displayed in a virtual credit card format.
+As users type their credit card details into the input fields, the virtual credit card display reflects the changes in real-time, providing users with immediate visual feedback of the entered information.
